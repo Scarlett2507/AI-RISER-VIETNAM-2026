@@ -1,0 +1,8 @@
+{
+  "name": "EventData Hub - Quản lý \u0026 Chuẩn hóa Dữ liệu Sự kiện",
+  "description": "Nền tảng tổng hợp, chuẩn hóa và quản lý cơ sở dữ liệu sự kiện thông minh, hỗ trợ ánh xạ cột Excel linh hoạt, phát hiện trùng lặp, hồ sơ 360 độ và phân tích dữ liệu đa chiều.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
